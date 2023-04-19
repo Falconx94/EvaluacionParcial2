@@ -1,7 +1,7 @@
 ![LINCES](PIC_LINCES.jpeg)
-#### Universidad Autonoma de Occidente
+# Universidad Autonoma de Occidente
 ### Proyecto desarrollado por:
-## [Ricardo Mascareño Reza]
+## [Ricardo Mascareño Reza](https://github.com/Falconx94)
 
 ### Profesor:
-## [Bydkar Aragon]
+## [Bydkar Aragon](https://github.com/bidkar)
