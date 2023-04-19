@@ -5,3 +5,7 @@
 
 ### Profesor:
 ## [Bydkar Aragon](https://github.com/bidkar)
+
+-[x] Menciones con Link
+-[x] Imagen de la Universidad
+-[ ] Tomar Moka :')
