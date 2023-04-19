@@ -11,5 +11,6 @@
 -[ ] Tomar Moka :')
 
 ### Y MI MOKA!!???
->El Codigo es Vida
+>Mi moka lo proceso a Código
+>Y el Código es Vida
 >El Codigo es amor
