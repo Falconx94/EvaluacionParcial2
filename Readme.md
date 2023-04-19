@@ -9,3 +9,7 @@
 -[x] Menciones con Link
 -[x] Imagen de la Universidad
 -[ ] Tomar Moka :')
+
+### Y MI MOKA!!???
+>El Codigo es Vida
+>El Codigo es amor
